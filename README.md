@@ -1,4 +1,9 @@
 # Witch-Diary
-2021大学生游戏开发大赛复赛作品《魔女观察日记》   
-游戏的主角是一个喜欢写生物观察日志的小巫女，通过日记本的视角切入记录小女巫培养的一些可爱生物的过程。游戏中你将以小女巫的视角，通过她的日记重温她培养生物的经历。游戏需要利用动物和植物彼此不同的属性使整个生态环境维持在一个平衡的状态，通过维持的时间或培养品种的的不同以达到足够的分数进入下一关。是一款休闲小游戏，希望能为玩家带来一段轻松的体验。  
-演示视频：https://www.bilibili.com/video/BV1cf4y1W7kc?share_source=copy_web
+
+A game developed for the 2021 China University Student Game Awards.
+
+It won the nomination for the Best Creative Design Award
+
+The protagonist of the game is a little witch who loves to write biological observation logs. Through the perspective of her diary, the game records the process of the little witch raising some cute creatures. In the game, you will revisit the little witch's experience of nurturing creatures through her diary. The game requires players to utilize the different attributes of animals and plants to maintain a balanced ecological environment. By maintaining the balance for a certain amount of time or cultivating different species, players can earn enough points to progress to the next level. It is a casual game designed to provide players with a relaxing experience.
+
+Demo Video：https://www.bilibili.com/video/BV1cf4y1W7kc?share_source=copy_web
